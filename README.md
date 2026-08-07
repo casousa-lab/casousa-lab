@@ -1,4 +1,4 @@
-# 💻 Camila Sousa 
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B00&width=435&lines=%F0%9F%92%BB+Camila+Sousa)](https://git.io/typing-svg)
 **`Estudante de Análise e Desenvolvimento de Sistemas | Full Stack & UX/UI Design`**
 <br/>
 <br/>
